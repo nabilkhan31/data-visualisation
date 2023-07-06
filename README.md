@@ -1,4 +1,4 @@
-### Extended an existing project
+## Extended an existing project
 
-## Data visualisation
+### Data visualisation
 
